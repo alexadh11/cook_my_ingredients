@@ -1,0 +1,6 @@
+{
+  "name": "Cook My Ingredients",
+  "description": "An interactive, modern 'what can I cook with what I already have' recipe platform featuring deshi and global cuisines, dynamic serving calculators, and CMI AI cooking assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
